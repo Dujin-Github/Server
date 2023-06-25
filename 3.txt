@@ -74,4 +74,7 @@ https://dujin-github.github.io/Server/230626003122.png
 
   입금내역
   https://dujin-github.github.io/Server/230626033905.png
+
+  JEPI와 TQQQ의 배당금이 가상운용자산에 포함된 것을 제외하여 
+  초기 운용자산과 동일한 5,063.75 달러로 변경함
   
