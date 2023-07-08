@@ -102,11 +102,16 @@ https://dujin-github.github.io/Server/230626003122.png
   배당내역
   https://dujin-github.github.io/Server/230630233305.png
 
+
+[ 7월 7일 ]
+  JEPI 배당금 1.58 달러
+
   현재까지 배당금
     TQQQ: 6.72
     빌려준 TQQQ: 37.95
     SQQQ: 4.53
-    JEPI: 1.35
+    JEPI(6월): 1.35
+    JEPI(7월): 1.58
 
   TQQQ와 JEPI는 기존 보유 주식이므로 배당금은 모두 JEPI를 구매하는 데 사용할 수 있음
-  6.72 + 37.95 + 1.35 = 46.02
+  기존 보유 주식 총배당금 47.6 달러
