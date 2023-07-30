@@ -115,3 +115,30 @@ https://dujin-github.github.io/Server/230626003122.png
 
   TQQQ와 JEPI는 기존 보유 주식이므로 배당금은 모두 JEPI를 구매하는 데 사용할 수 있음
   기존 보유 주식 총배당금 47.6 달러
+
+
+[ 상환 ]
+  거래내역
+  https://dujin-github.github.io/Server/230730115523.png
+
+  최종 4,282.34 달러
+  달러 잔액: 429.44 달러
+  상환 원금: 3,852.90 달러
+
+  원금: 5,908,411원
+  금리: 10%
+  빌린 날짜: 2023. 6. 7
+  상환 날짜: 2023. 7. 29
+  빌린 기간: 52일
+  이자: 84,174원
+
+  입금내역
+  https://dujin-github.github.io/Server/230730120325.png
+  https://dujin-github.github.io/Server/230730120329.png
+
+  환전내역
+  https://dujin-github.github.io/Server/230730120322.png
+
+  환전에 든 비용 4,954,434원과 이자 84,174원을 합하여 
+  5,038,608원을 받음
+  
