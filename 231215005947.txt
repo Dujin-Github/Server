@@ -1,5 +1,5 @@
 [ 2023. 12. 15 ]
-  참고: dujin-github.github.io/Server/231215004815.txt
+  참고: https://dujin-github.github.io/Server/231215004815.txt
 
   원금A: 7,402,850원
   이자A: 415,776원
